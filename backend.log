@@ -1,0 +1,5 @@
+
+> musiq-backend@1.0.0 dev
+> tsx watch src/server.ts
+
+MUSIQ Backend running on http://localhost:5000
